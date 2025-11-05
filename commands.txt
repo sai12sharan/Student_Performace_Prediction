@@ -1,0 +1,3 @@
+#runnig : python app.py
+# virtual environment : venv\Scripts\activate
+# error : Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass

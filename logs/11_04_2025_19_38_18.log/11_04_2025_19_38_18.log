@@ -1,0 +1,16 @@
+[ 2025-11-04 19:38:18,305 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-11-04 19:38:18,307 ] 97 werkzeug - INFO -  * Debugger PIN: 604-959-262
+[ 2025-11-04 19:38:44,500 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:44] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-11-04 19:38:44,595 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:38:44,604 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:38:44,683 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:44] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=Fv9tXqp6nXtkkxcdC1Qq HTTP/1.1" 200 -
+[ 2025-11-04 19:38:44,693 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:38:49,751 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:49] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-11-04 19:38:49,777 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:49] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:38:49,779 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:49] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:38:49,803 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:49] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=Fv9tXqp6nXtkkxcdC1Qq HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:38:49,813 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:38:49] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:39:21,150 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:39:21] "GET / HTTP/1.1" 200 -
+[ 2025-11-04 19:39:21,182 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:39:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:39:24,059 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:39:24] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-11-04 19:39:24,082 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:39:24] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -

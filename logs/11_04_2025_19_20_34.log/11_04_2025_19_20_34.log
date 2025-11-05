@@ -1,0 +1,9 @@
+[ 2025-11-04 19:20:34,179 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-11-04 19:20:34,182 ] 97 werkzeug - INFO -  * Debugger PIN: 604-959-262
+[ 2025-11-04 19:20:53,802 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:20:53] "GET / HTTP/1.1" 200 -
+[ 2025-11-04 19:20:53,889 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:20:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:20:58,461 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:20:58] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-11-04 19:20:58,487 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:20:58] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:21:33,941 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:21:33] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-11-04 19:21:33,960 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Nov/2025 19:21:33] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2025-11-04 19:22:25,730 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Predicting-Student-Performance-Using-Machine-Learning\\app.py', reloading
